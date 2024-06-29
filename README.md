@@ -23,8 +23,8 @@ DegenToken is an ERC20 token smart contract implemented on Ethereum blockchain u
   
 #### Redemption 
 
--Users can redeem items by spending DGN tokens. Each item has a fixed token cost.
--Redeemed items are recorded per user, detailing the amount of items and tokens spent.
+- Users can redeem items by spending DGN tokens. Each item has a fixed token cost.
+- Redeemed items are recorded per user, detailing the amount of items and tokens spent.
 
 #### View Functions
 
